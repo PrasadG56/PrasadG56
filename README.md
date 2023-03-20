@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PrasadG56
 - 👀 I’m interested in Software Development in python or java.
-- 🌱 I’m currently learning python and flutter.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning python,kotlin and flutter.
+- 💞️ I’m looking to collaborate on Android Development.
+- 📫 Reach me via my gaikwadprasad56@gmail.com.
 
 <!---
 PrasadG56/PrasadG56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
